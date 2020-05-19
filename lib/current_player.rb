@@ -16,4 +16,4 @@ if player_number == 0
 else
   return "O"
   end
-end 
+end
