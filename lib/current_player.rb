@@ -11,7 +11,5 @@ end
 
 def current_player(board)
 player_number = count % 2
-if player_number == 0
-  return "X"
-  end
+puts player_number
 end
