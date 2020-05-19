@@ -9,6 +9,6 @@ def turn_count(board)
   return count
 end
 
-def current_player(board)
-
+def current_player(board, count)
+player_number = count % 2
 end
